@@ -1,0 +1,23 @@
+{
+    "name": "noddler",
+    "main": "index.js",
+    "version": "0.2.0",
+    "author": {
+        "name": "Melvyn kim"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/melvynkim/noddler.git"
+    },
+    "dependencies": {
+        "bluebird": "^3.7.2",
+        "glob": "^7.1.6",
+        "lodash": "^4.17.21"
+    },
+    "devDependencies": {
+        "eslint": "7.24.0 ",
+        "eslint-config-airbnb-base": "14.1.0",
+        "eslint-plugin-import": "2.22.1"
+    }
+}
